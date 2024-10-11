@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently learning: Diving deeper into Python, refining my data analysis techniques, perfecting Power BI visualizations and keeping up with the latest testing frameworks.
+- 🌱 I’m currently learning: Diving deeper into Python, keeping up with the latest Testing Frameworks, perfecting Power BI visualizations and refining my data analysis techniques.
+- 🔭 I’m currently working on **Improving myself.**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Supraja-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/suprajaraavi)
 - 😄 Pronouns: I am Supraja (She / Her) aka Java Juggler, Pythonista, Bug Buster, Debugger Diva, Excel Enthusiast, Number Ninja, Pivot Table Prodigy, Power BI Pro, Data Detective
@@ -34,7 +35,7 @@ I'm an Explorer 🙂...
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/>
   </a>
   &nbsp;
-  <a href="https://www.bing.com/" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=ojkEjofaSq39&format=png&color=000000" alt="html" width="55" height="55"/>
   </a>
   
@@ -67,7 +68,7 @@ I'm an Explorer 🙂...
     <img src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="oracle" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://www.oracle.com/" target="_blank">
+  <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDb" width="40" height="40"/>
   </a>
   &nbsp;
@@ -79,7 +80,7 @@ I'm an Explorer 🙂...
     <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="excel" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://www.github.com" target="_blank">
+  <a href="https://git-scm.com" target="_blank">
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
   </a>
 &nbsp;
@@ -109,3 +110,7 @@ I'm an Explorer 🙂...
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-RaaviSupraja)
+
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RaaviSupraja&show_icons=true&locale=en&layout=compact" alt="supraja" /></p>
+-->
