@@ -105,7 +105,7 @@ I'm an Explorer 🙂...
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RaaviSupraja)](https://git.io/streak-stats)
 
-<a href="https://leetcode.com/u/SoupBeautifull/">
+<a href="https://leetcode.com/u/SoupBeautiful/">
 <img width=35% height=65% src="https://img.shields.io/badge/-LeetCode Profile-yellow?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/u/SoupBeautifull/"/>
 </a>
 
